@@ -4,15 +4,6 @@
 
 </div>
 
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=labibkuy&label=👁️%20Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/labibkuy)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/labibkuy?label=Followers&style=for-the-badge&color=9b30ff&logo=github)
-&nbsp;
-![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborations-00d4ff?style=for-the-badge&logo=handshake&logoColor=white)
-
-</div>
 
 <div align="center">
 
